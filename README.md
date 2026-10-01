@@ -6,3 +6,4 @@
 This repository is the sample of web application using golang.
 
 new test
+test cide
